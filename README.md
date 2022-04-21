@@ -59,7 +59,9 @@ https://medium.com/@clarewillis.79/can-you-predict-the-price-of-your-next-holida
 
 The results are also described throughout the mark down cells in the notebook. 
 
-***Licensing, Authors, Acknowledgements ***
+
+***Licensing, Authors, Acknowledgements***
+
 
 Must give credit to Kaggle and airbnb for the data. You can find the Licensing for the data and other descriptive information at : https://www.kaggle.com/datasets/airbnb/seattle
 
