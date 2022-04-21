@@ -2,15 +2,15 @@
 
 Table of Contents : 
 
-Installation
+* Installation
 
-Project Motivation
+* Project Motivation
 
-File Descriptions
+* File Descriptions
 
-Results
+* Results
 
-Licensing, Authors, and Acknowledgements
+* Licensing, Authors, and Acknowledgements
 
 ***Installation***
 
