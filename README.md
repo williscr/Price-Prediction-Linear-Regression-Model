@@ -17,14 +17,23 @@ Table of Contents :
 The neccessary libraries required to run the code are : 
 
 numpy
+
 pandas 
+
 matplotlib.pyplot
+
 sklearn.linear_model LinearRegression 
+
 sklearn.pipeline Pipeline and make_pipeline 
+
 sklearn.preprocessing StandardScaler
+
 sklearn.model_selection train_test_split
+
 sklearn.metrics r2_score and mean_squared_error
+
 seaborn 
+
 scipy.stats 
 
 The code should run with no issues using Python versions 3.*.
@@ -35,13 +44,13 @@ For this project, I was interestested in using Seattle Airbnb data, an open data
 
 I was interested in answering the questions :
 
-1) Which features of the seatle dataset provide the most information for predicting the price ? 
+1) Which features of the seatle dataset are most useful in predicting the price ? 
 
 2) Can we train a classifier to predict the price ?
 
 3) What neighbourhood in seattle is the cheapest to rent a listing ?
 
-This will help me understand, the listings data , gain hands on experience using real messy data to practice my data science skills. 
+This will help me understand, the listings data and gain hands on experience using real messy data to practice my data science skills. 
 
 
 ***File Descriptions***
@@ -49,8 +58,10 @@ This will help me understand, the listings data , gain hands on experience using
 There are 1 notebook available here that answers questions related to the above questions.
 This notebook follows the CRISP-DM data science process to answer the project questions. 
 Markdown cells guide in the structure and the individual steps and outline the proccess taken. 
+The file name is : Price Predictor - Module 1.ipynb
 
-The data source is also committed to this repository. With the file name Seattle_Data.zip
+The data source is also committed to this repository. 
+The file name is: Seattle_Data.zip
 
 ***Results***
 
